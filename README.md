@@ -5,7 +5,7 @@ consumer who is more likely to dispute a conclusion can be given more attention 
 handled as well as how persuasively the final conlusions are conveyed to them.
 Your target here is to build prediction model for column "Consumer disputed".
 
-Formal Problem Statement ¶
+# Formal Problem Statement 
 Your target here is to build prediction model so that you are able to predict which consumer is more likely to
 dispute the resolution of a complaint i.e. you need to make predictions for the "Consumer disputed" column.
 All the column names are self explanatory. You need to build your model on train data. Test data does not have
